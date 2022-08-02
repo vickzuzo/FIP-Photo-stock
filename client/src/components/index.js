@@ -1,0 +1,11 @@
+export { default as Header } from "./Header/Header";
+export * from "./Hero";
+export * from "./Tabs";
+export * from "./Photo";
+export * from "./ThemeToggler";
+export * from "./Input";
+export * from "./Button";
+export * from "./Loader";
+export * from "./AdminCard";
+export * from "./AdminPageHeader";
+export * from "./Table";
